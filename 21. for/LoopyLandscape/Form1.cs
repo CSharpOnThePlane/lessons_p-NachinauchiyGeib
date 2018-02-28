@@ -28,12 +28,12 @@ namespace LoopyLandscape {
 		}
 
 		private void DrawGrass(int x, int y) {
-			Image img = Image.FromFile("GrassBlock.png");
+			Image img = Image.FromFile("../../GrassBlock.png");
 			graphics.DrawImage(img, x, y);
 		}
 
 		private void DrawTree(int x, int y) {
-			Image img = Image.FromFile("TreeUgly.png");
+			Image img = Image.FromFile("../../TreeUgly.png");
 			graphics.DrawImage(img, x, y);
 		}
 	}
