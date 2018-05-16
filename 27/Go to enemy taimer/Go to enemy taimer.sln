@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Go to enemy taimer", "Assembly-CSharp-firstpass.csproj", "{4AC9FBBC-EA47-B3C9-3675-C6084099B69B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Go to enemy taimer", "Assembly-CSharp.csproj", "{3C50F671-3AF9-BF3C-5DC9-0606715D7A15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Go to enemy taimer", "Assembly-CSharp-Editor-firstpass.csproj", "{ED540FF3-16E9-F525-FF05-2CE5BD5FA5C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AC9FBBC-EA47-B3C9-3675-C6084099B69B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AC9FBBC-EA47-B3C9-3675-C6084099B69B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AC9FBBC-EA47-B3C9-3675-C6084099B69B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AC9FBBC-EA47-B3C9-3675-C6084099B69B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C50F671-3AF9-BF3C-5DC9-0606715D7A15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C50F671-3AF9-BF3C-5DC9-0606715D7A15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C50F671-3AF9-BF3C-5DC9-0606715D7A15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C50F671-3AF9-BF3C-5DC9-0606715D7A15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED540FF3-16E9-F525-FF05-2CE5BD5FA5C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED540FF3-16E9-F525-FF05-2CE5BD5FA5C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED540FF3-16E9-F525-FF05-2CE5BD5FA5C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED540FF3-16E9-F525-FF05-2CE5BD5FA5C4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
